@@ -1,3 +1,15 @@
 # word-Paper-formatting-program
 vba程序。可以自动排版word中的公式，公式注释，表格，图片。vba program. It can automatically typeset formulas, formula notes, tables, and pictures in Word.<br>
 ![image](https://github.com/nitpicker55555/word-Paper-formatting-program/assets/91596298/3fe0fee5-3342-4e0c-9e15-27c7a31f6ec4)
+![image](https://github.com/nitpicker55555/word-Paper-formatting-program/assets/91596298/29821a9c-5565-4c13-aa3a-1d1f812c5d85)
+![image](https://github.com/nitpicker55555/word-Paper-formatting-program/assets/91596298/70244434-60e3-488b-983a-13766f6f3d82)
+![image](https://github.com/nitpicker55555/word-Paper-formatting-program/assets/91596298/ba90af71-1c0c-4514-b3db-19abd143f75b)
+![image](https://github.com/nitpicker55555/word-Paper-formatting-program/assets/91596298/31c4792c-3dd8-4964-a283-8b8e7c7fb95f)
+![image](https://github.com/nitpicker55555/word-Paper-formatting-program/assets/91596298/0bc74902-5b23-45e7-aa1e-502f5bdfaa8f)
+![image](https://github.com/nitpicker55555/word-Paper-formatting-program/assets/91596298/df0519b4-215e-4455-a2f6-464926236efa)
+![image](https://github.com/nitpicker55555/word-Paper-formatting-program/assets/91596298/4211d0ac-eecb-42a3-8676-2bce9da444c3)
+![image](https://github.com/nitpicker55555/word-Paper-formatting-program/assets/91596298/950a5d0b-f1c1-4512-87e8-160c9f6d2dcf)
+![image](https://github.com/nitpicker55555/word-Paper-formatting-program/assets/91596298/0222dd39-9ab7-4ea1-969d-5c2959490975)
+![image](https://github.com/nitpicker55555/word-Paper-formatting-program/assets/91596298/4fdb1180-d1ca-4875-9fce-9bba5f806076)
+![image](https://github.com/nitpicker55555/word-Paper-formatting-program/assets/91596298/71fd93e0-a3c9-407c-9173-029954d6e320)
+![image](https://github.com/nitpicker55555/word-Paper-formatting-program/assets/91596298/8436d69b-3b55-448a-970d-cc8a2540e3e5)
